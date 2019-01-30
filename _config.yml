@@ -9,16 +9,16 @@ description: "This is the offical web site for NEDO teams."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Ramin Tadayon
   pic: 1
-  position: Lead Designer
+  position: Research collaborator
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/ramin-tadayon-110240105/
+    # - title: facebook
+    #   url: #
+    # - title: stack-overflow
+    #   url: #
 
 # - name: Larry Parker
 #   pic: 2
