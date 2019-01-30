@@ -8,7 +8,7 @@ img: teamone.JPG
 thumbnail: teamone.JPG
 alt: image-alt
 project-date: October 2018
-Organization: Hiroshima University
+organization: Hiroshima University
 category: Virtual Reality
 description: In this work, the authors propose the development of an automated environment to augment human function and provided adaptive, guided support for completion of at-home exercises to improve quadricep function.
 
