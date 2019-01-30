@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Squat exercise assistance for the elderly using real-time adaptation
+subtitle: AI coaching system
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2019-01-30
+img: teamone.JPG
+thumbnail: teamone.JPG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: October 2018
+client: Hiroshima University
+category: Virtual Reality
+description: In this work, the authors propose the development of an automated environment to augment human function and provided adaptive, guided support for completion of at-home exercises to improve quadricep function.
 
 ---
