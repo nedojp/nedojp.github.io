@@ -9,8 +9,19 @@ description: "This is the offical web site for smart society for enjoying long h
 
 # Team names, titles and social links
 people:
-- name: Ramin Tadayon
+- name: Yuichi Kurita
   pic: 1
+  position: Project leader
+  social:
+    - title: twitter
+      url: https://twitter.com/mykurita
+    - title: facebook
+      url: https://www.facebook.com/yuichi.kurita
+    - title: linkedin
+      url: https://www.linkedin.com/in/yuichi-kurita-33051265/
+
+- name: Ramin Tadayon
+  pic: 2
   position: Research collaborator in Hiroshima University
   social:
     - title: linkedin
@@ -19,17 +30,6 @@ people:
     #   url: #
     # - title: stack-overflow
     #   url: #
-
-# - name: Larry Parker
-#   pic: 2
-#   position: Lead Marketer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: linkedin
-#       url: #
 
 # - name: Diana Petersen
 #   pic: 3
